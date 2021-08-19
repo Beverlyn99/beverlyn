@@ -63,7 +63,7 @@ p {
     padding: 0 20px;
 }
 #hero {
-    background: url("image/pexels-sora-shimazaki-5668482.jpg") no-repeat center center/cover;
+    background: url("./image/pexels-sora-shimazaki-5668482.jpg") no-repeat center center/cover;
     height: 600px;
 }
 .hero-content {
